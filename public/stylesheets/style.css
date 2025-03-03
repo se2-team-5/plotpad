@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #ffffff;
+    color: #000000;
+}
+
+h1 {
+    color: #bc0e45;
+}
+
+.lead {
+    font-size: 1.25em;
+    font-weight: 300;
+}
+
+.container {
+   margin-top: 50px;
+}
+
+.btn-custom {
+    background-color: #4d0d21;
+    color: #ffffff;
+    border: none;
+}
+
+.btn-custom:hover {
+    background-color: #580b23;
+}
