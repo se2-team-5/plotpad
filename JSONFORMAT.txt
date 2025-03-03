@@ -1,6 +1,28 @@
 {
     "Title": "insert title",
     "Author": "Insert Author",
-    "Choices": {Insert choice},
-    "Stats": {}
+    "Stats": {
+        "Stat1": 100,
+        "Stat2": 50
+    },
+    "Passages": [
+        {
+            "id": 1,
+            "text": "Sample text for story",
+            "choices": [
+                {
+                    "text": "choice1",
+                    "next": id of next passage
+                },
+                {
+                    "text": "choice2",
+                    "next": id of other possible next passage
+                }
+            ]
+        }
+        {
+            "id": 2,
+            etc.
+        }
+    ]
 }
