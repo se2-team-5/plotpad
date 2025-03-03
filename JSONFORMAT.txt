@@ -1,0 +1,6 @@
+{
+    "Title": "insert title",
+    "Author": "Insert Author",
+    "Choices": {Insert choice},
+    "Stats": {}
+}
